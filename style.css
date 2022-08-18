@@ -1,0 +1,21 @@
+#navbarCollapse {
+  justify-content: space-between;
+}
+.bg-img1 {
+  background-image: url("https://images.theconversation.com/files/368840/original/file-20201111-13-l5sv4e.jpg?ixlib=rb-1.1.0&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip");
+  background-size: cover;
+  height: 100vh;
+  background-color: aqua;
+}
+.bg-img2 {
+  background-image: url("https://c8.alamy.com/comp/RBF404/dong-hoi-city-night-quang-binh-province-viet-nam-february-2017-RBF404.jpg");
+  background-size: cover;
+  height: 100vh;
+  background-color: aqua;
+}
+.bg-img3 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-o78OXapR26184BwfQSGXKbAm-dQg5BlYg&usqp=CAU");
+  background-size: cover;
+  height: 100vh;
+  background-color: aqua;
+}
